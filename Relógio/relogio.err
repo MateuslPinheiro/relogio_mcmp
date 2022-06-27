@@ -1,0 +1,7 @@
+Warning[2058] C:\Users\MATEUS\Documents\Projetos Proteus\MCMP\PIC\Relógio\relogio.c 28 : call of function without prototype
+Warning[2058] C:\Users\MATEUS\Documents\Projetos Proteus\MCMP\PIC\Relógio\relogio.c 31 : call of function without prototype
+Warning[2058] C:\Users\MATEUS\Documents\Projetos Proteus\MCMP\PIC\Relógio\relogio.c 81 : call of function without prototype
+Warning[2068] C:\Users\MATEUS\Documents\Projetos Proteus\MCMP\PIC\Relógio\relogio.c 182 : obsolete use of implicit 'int' detected
+Warning[2103] C:\Users\MATEUS\Documents\Projetos Proteus\MCMP\PIC\Relógio\relogio.c 182 : default startup code expects main function declared as 'void main (void)'
+Warning[2058] C:\Users\MATEUS\Documents\Projetos Proteus\MCMP\PIC\Relógio\relogio.c 204 : call of function without prototype
+Warning[2058] C:\Users\MATEUS\Documents\Projetos Proteus\MCMP\PIC\Relógio\relogio.c 213 : call of function without prototype

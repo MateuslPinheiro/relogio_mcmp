@@ -1,0 +1,14 @@
+#include <p18f4520.h>
+
+void delay_s(void)
+{
+	unsigned int i;
+	for (i=0;i<45000;i++) ()
+}
+
+main ()
+{
+
+
+
+}
